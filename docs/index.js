@@ -17,7 +17,7 @@ function doorWillOpen(d) {
             return 'front';
             break;
         case('SW'):
-            return 'right';
+            return 'back';
             break;
         case('N'):
             return 'left';
